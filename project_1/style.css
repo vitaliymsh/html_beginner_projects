@@ -1,0 +1,13 @@
+body {
+    background: #f5f9ff;
+}
+.main {
+    background: darkgray;
+}
+h5 {
+    text-align: center;
+    margin: 50px;
+}
+.image {
+    display: block;
+}
